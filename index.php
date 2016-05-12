@@ -2,4 +2,6 @@
 
 	echo "coucou";
 
+	$toto = "tata";
+
 ?>
